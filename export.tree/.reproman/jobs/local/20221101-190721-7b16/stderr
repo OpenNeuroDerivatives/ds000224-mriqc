@@ -1,0 +1,7 @@
+Warning: Permanently added 'c207-018' (ED25519) to the list of known hosts.
+WARNING (11/03/22 07:35:33): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4960880.hostlist.QFMh8GWP to get hosts
+starting job on c207-018
+starting job on c209-011
+slurmstepd: error: *** JOB 4960880 ON c207-018 CANCELLED AT 2022-11-03T09:25:33 ***
+Terminated
